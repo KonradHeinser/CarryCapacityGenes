@@ -17,6 +17,7 @@
 
   <loadAfter>
     <li>Ludeon.RimWorld.Biotech</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
   </loadAfter>
 
   <description>
